@@ -1,4 +1,4 @@
-# Loan-Approval Analysis
+# Loan-Approval
 
 This project focuses on analyzing and predicting loan approval status based on various customer features using Python and data analysis techniques. The dataset includes attributes such as applicant income, education, loan amount, credit history, and more. The objective is to uncover key patterns and insights that influence whether a loan is approved or rejected.
 
